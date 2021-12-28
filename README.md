@@ -1,4 +1,4 @@
-# C31-Plinko-Game
-Watch the mini balls fall into the container! 👀 🏉⚾⚽ 📦
+# C32-Plinko-Game
+Watch the colorful balls fall into the container! ✨
 
-https://setucoder.github.io/C31-Plinko-Game/
+by - hiya taunk
